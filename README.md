@@ -8,14 +8,12 @@
 - [Resources](#resources)
 
 ## Supported Operating Systems
-___
 - [x] Windows
 - [x] Linux
 - [x] iOS
 - [ ] Android
 
 ## 1. Linux:
-___
 
 Take a look at the official website of [my Project](https://github.com/) for updates. To install this project on Ubuntu, follow these steps:
 
@@ -46,13 +44,13 @@ sudo systemctl daemon-reload
 ```
 sudo reboot
 ```
-After this steps in Terminal, try to type ls in Terminal, Mongo shell should appear and ready to execute mongo commands
+>After this steps in Terminal, try to type ls in Terminal, Mongo shell should appear and ready to execute mongo commands
 
-You may use in terminal mongo shell, by typing in terminal:  mongosh 
+>You may use in terminal mongo shell, by typing in terminal:  mongosh 
 
 
 ## Windows
- Just Download the Executable file and follow the instaliation wizard to install it.
+ >Just Download the Executable file and follow the instaliation wizard to install it.
  Then you can see it in application menu, or you can run it in terminal by typing  My Project 
 
 ## Resources
